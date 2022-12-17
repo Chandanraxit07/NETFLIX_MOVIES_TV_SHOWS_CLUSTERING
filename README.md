@@ -1,3 +1,11 @@
+
+
+you can access the python notebook using this link
+
+https://github.com/Chandanraxit07/NETFLIX_MOVIES_TV_SHOWS_CLUSTERING/blob/main/Copy_of_NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING.ipynb
+
+
+
 # NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING
 ![image](https://user-images.githubusercontent.com/98047808/164591625-2544cb28-a8a0-4b6d-9471-3900730f9709.png)
 
