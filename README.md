@@ -6,7 +6,7 @@ https://github.com/Chandanraxit07/NETFLIX_MOVIES_TV_SHOWS_CLUSTERING/blob/main/C
 
 
 
-# NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING
+# Netflix Movies And TV Shows Clustering
 ![image](https://user-images.githubusercontent.com/98047808/164591625-2544cb28-a8a0-4b6d-9471-3900730f9709.png)
 
 
